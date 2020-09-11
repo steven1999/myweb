@@ -1,4 +1,14 @@
 ---
 label: Contact us
 hide_body: false
-fields: []
+fields:
+- name: so_dien_
+  type: number
+  label: 'So dien '
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
