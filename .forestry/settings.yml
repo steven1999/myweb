@@ -5,6 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: heading
+  label: Trang chủ
+- type: heading
   label: Contact us
 upload_dir: uploads
 public_path: "/uploads"
